@@ -24,3 +24,23 @@ The primary aim of this project is to extract meaningful insights and knowledge 
 ### Data Sources
 ---
 The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, data was gotten from site such as kaggle
+
+### Tools Used
+---
+Microsoft Excel
+
+-Powerbi Query
+
+-PowerBI: Power BI is a powerful data visualization and business intelligence tool that is primarily used in data analysis for the following purposes:
+
+i. Dataset Cleaning
+
+ii. Change Datatype
+
+ii. Data Visualization
+
+ii. Data Connectivity and Integration
+
+iii. Collaboration and Sharing
+
+iv. Predictive Analytics
