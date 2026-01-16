@@ -1,2 +1,2 @@
 # AINOW-BOOTCAMP
-Advanced Data Analysis
+Advanced Data Analysis Excel Project
