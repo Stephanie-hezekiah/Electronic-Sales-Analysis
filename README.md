@@ -46,7 +46,7 @@ DAX: For custom measures (YTD, QTD, YoY Variance).
 
 
 ### Data Cleaning & Transformation
-
+---
 Before analysis, the raw dataset underwent a rigorous cleaning process in Excel and Power BI (Power Query) to ensure "one version of the truth."
 
 1. Handling Date Inconsistencies
@@ -91,7 +91,7 @@ I implemented a Star Schema to optimize performance and simplify the DAX calcula
 
 
 ### Data Virtualization
-
+---
 The final stage of this project involved creating an interactive Power BI Dashboard designed to provide executive-level insights at a glance.
 
 1. The Visual Hierarchy
@@ -127,7 +127,7 @@ Visual Insights Derived
 
 
 ### Exploratory Data Analysis
-
+---
 This phase involved a deep dive into the dataset to understand the underlying distributions and relationships between variables.
 
 1. Data Profiling & Quality Audit
@@ -176,7 +176,7 @@ During the Exploratory Data Analysis phase in Excel, I utilized:
 
 
 ### Contact
-
+---
 •	LinkedIn: https://www.linkedin.com/in/hezekiah-stephanie-11061422a/
 
 •	Email: stephaniehezekiel@gmail.com
