@@ -8,10 +8,6 @@ Advanced Data Analysis Excel Project
 [Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
-
-[Data Cleaning](#data-cleaning)
-
-[Column Creation](#column-creation)
  
 [Data Virtualization](#data-virtualization)
 
@@ -30,11 +26,6 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 Power BI: Data Modeling, DAX (Time Intelligence), and Visualization.
 Excel Office: Initial data exploration and cleaning.
 DAX: For custom measures (YTD, QTD, YoY Variance).
-Microsoft Excel
-
-
--PowerBI: Power BI is a powerful data visualization and business intelligence tool that is primarily used in data analysis for the following purposes:
-
 i. Dataset Cleaning
 
 ii. Change Datatype
@@ -46,3 +37,4 @@ ii. Data Connectivity and Integration
 iii. Collaboration and Sharing
 
 iv. Predictive Analytics
+
