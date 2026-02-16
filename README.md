@@ -27,12 +27,11 @@ The data set was given by our tutors in persons of Mr Mushin and Mr Femi. Also, 
 
 ### Tools Used
 ---
-**Power BI:** Data Modeling, DAX (Time Intelligence), and Visualization.
-**Excel/LibreOffice:** Initial data exploration and cleaning.
-**DAX:** For custom measures (YTD, QTD, YoY Variance).
+Power BI: Data Modeling, DAX (Time Intelligence), and Visualization.
+Excel Office: Initial data exploration and cleaning.
+DAX: For custom measures (YTD, QTD, YoY Variance).
 Microsoft Excel
 
--Powerbi Query
 
 -PowerBI: Power BI is a powerful data visualization and business intelligence tool that is primarily used in data analysis for the following purposes:
 
